@@ -1,0 +1,6 @@
+The cells were from June 12 log-phased cells, and were left at water at 4C for one night.  The DHR and DHE master mix were also left at 4C for one night. 
+
+So these cells are not log-phased cells anymore. The overnight DHR staining and 30 mintues DHE staining often both gave two peaks, indicating quiescent and nonquiescent cells?!. These results are suggestive for CLS DHR, DHE results. 
+
+2012 June 19. On a second thought, increased H2O2 treatment does suppressed the first FL1 peak and increase the second FL1 peak. 
+
